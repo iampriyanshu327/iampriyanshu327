@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sinha</h1>
-<h3 align="center">A passionate AIML developer from India</h3>
+<h3 align="center">An AI Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampriyanshu327&label=Profile%20views&color=0e75b6&style=flat" alt="iampriyanshu327" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampriyanshu327" alt="iampriyanshu327" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently mastering **AI based Developments**
 
-- 👯 I’m looking to collaborate on **AIML projects**
+- 👯 However I'm open to collaborate on Projects of any stack
 
-- 🤝 I’m looking for help with **DevOps**
+- 💬 Ask me about **Machine Learning, Data Science, AI Agents and Automation**
 
-- 💬 Ask me about **Machine Learning, Data Science**
-
-- 📫 How to reach me **iampriyanshu327@gmail.com**
+- 📫 You can reach me here: **thisispriyanshusinha@gmail.com**
 
 - ⚡ Fun fact **I play 1500+ elo chess**
 
